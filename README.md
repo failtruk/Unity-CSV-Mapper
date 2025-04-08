@@ -28,8 +28,8 @@ A powerful and flexible CSV importing solution for Unity that enables developers
 1. Open the Package Manager window in Unity (Window > Package Manager)
 2. Click the "+" button in the top-left corner
 3. Select "Add package from git URL..."
-4. Enter `https://github.com/failtruk/unity-csv-importer.git`
-5. Click "Add"
+4. Enter `https://github.com/failtruk/unity-csv-mapper.git`
+6. Click "Add"
 
 ### Option 2: Manual Installation
 
